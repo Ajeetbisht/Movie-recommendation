@@ -1,11 +1,11 @@
-#Movie recommendations system
+# Movie recommendations system
 
 This is a demo project to make a real world recomendations system
 
 Prerequisites
 You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
 
-#Project Structure
+# Project Structure
 This project has four major parts :
 
 model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
